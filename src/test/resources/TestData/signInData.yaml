@@ -1,0 +1,61 @@
+loginCred:
+  Username: "uatuser2@arpatech.com"
+  password: "Password@12"
+  code: "11111111"
+
+loginCred3:
+  Username: "MohdJawad3108@arpatech.com"
+  password: "Password@1"
+  code: "11111111"
+
+loginCred4:
+  Username: "MohdJawad6191@arpatech.com"
+  password: "Password@1"
+  code: "11111111"
+
+loginCred5:
+  Username: "MohdJawad841@arpatech.com"
+  password: "Password@1"
+  code: "11111111"
+
+loginCred6:
+  Username: "MohdJawad4546@arpatech.com"
+  password: "Password@1"
+  code: "11111111"
+
+loginCred0:
+  Username: "Muhammad.jawad@8arpatech.com"
+  password: "Connection@12"
+  code: "11111111"
+
+loginCred1:
+  password: "Password@1"
+  code: "11111111"
+  
+loginCred2:
+  Username: "alpineuattester@alpine.com"
+  password: "Password@123"
+  code: "11111111"
+  
+  
+wrongLoginCred:
+  Username: "User1"
+  password: "123"
+
+
+specificCase:
+  Username: "tenant7saimauat@new.com"
+  password: "ArpatecH157@"
+
+LockedUser:
+ Username: "ccptestmain@arpatech.com"
+ password: "Connection1234"
+
+management:
+ Username: "ccptestmgmt2@arpatech.com"
+ password: "Connection@123"
+
+
+management1:
+ Username: "qamanagement@arpatech.com"
+ password: "Password@1" 

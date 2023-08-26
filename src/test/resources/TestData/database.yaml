@@ -1,0 +1,5 @@
+database:
+  dburl: "jdbc:mysql://18.211.175.203:3306/database_sensitive" 
+  dburl1: value="jdbc:mysql://18.211.175.203:3306/database_business" 
+  dbun:  "saima"
+  dbpswd: "ArpatecH157"

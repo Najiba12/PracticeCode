@@ -1,0 +1,14 @@
+UserAccessUrls:
+  accountDomainUrl: https://ccpuat-customerportal.arpatech.com/account/account-domains
+  marketPlaceUrl: https://ccpuat-customerportal.arpatech.com/marketplaces
+  loginpage: https://ccpuat-customerportal.arpatech.com/auth/login
+  
+management:
+ management: https://ccpuat-mgmnt.arpatech.com/home
+
+Customer:
+  Customer: https://ccpuat-customerportal.arpatech.com/auth/login
+
+RegisterNewAccount:
+ RegisterNewAccount: https://ccpuat-customerportal.arpatech.com/account/create-account
+ 
